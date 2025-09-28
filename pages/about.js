@@ -73,12 +73,12 @@ export default function About() {
             <div className="max-w-4xl">
               <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white drop-shadow-md leading-tight">
                 Welcome to{" "}
-                <span className="text-[#ffd200]">DholeraGujarat.in</span>
+                <span className="text-[#ffd200]">Dholera Infratech</span>
               </h1>
               <p className="text-base sm:text-lg md:text-xl text-gray-200 mt-4 leading-relaxed">
                 Discover <strong>Dholera Smart City</strong> — India’s largest
                 planned smart city in Gujarat. At{" "}
-                <strong>DholeraGujarat.in</strong>, we offer reliable property
+                <strong>Dholera Infratech</strong>, we offer reliable property
                 listings, investment insights, infrastructure updates, and
                 expert guidance to help you capitalize on Dholera SIR’s real
                 estate and smart urban development boom.
@@ -91,7 +91,7 @@ export default function About() {
         <section className="max-w-6xl mx-auto px-4 py-16">
           <div className="mb-10">
             <p className="text-lg text-gray-700 leading-relaxed">
-              DholeraGujarat.in is your trusted partner for exploring the
+              Dholera Infratech is your trusted partner for exploring the
               futuristic opportunities of{" "}
               <strong>Dholera Special Investment Region (SIR)</strong>. From
               industrial corridors and mega-infrastructure to smart homes and
@@ -104,7 +104,7 @@ export default function About() {
             <p className="text-lg leading-relaxed">
               We are a passionate team at{" "}
               <span className="font-semibold text-red-500">
-                DholeraGujarat.in
+                Dholera Infratech
               </span>{" "}
               — combining real estate expertise, digital strategy, and civic
               vision to empower all stakeholders in <strong>Dholera SIR</strong>
@@ -156,7 +156,7 @@ export default function About() {
           </section>
 
           <Section
-            title="✅ Why Choose DholeraGujarat.in?"
+            title="✅ Why Choose Dholera Infratech?"
             color="text-red-700"
             bg="bg-gradient-to-r from-red-100 to-red-50"
           >
@@ -278,7 +278,7 @@ export default function About() {
             bg="bg-indigo-50"
           >
             <p className="text-lg text-gray-700 mb-4">
-              DholeraGujarat.in offers a dedicated investment support desk for
+              Dholera Infratech offers a dedicated investment support desk for
               NRIs looking to invest in Dholera SIR real estate.
             </p>
             <ul className="list-disc list-inside text-gray-800 text-lg space-y-2">

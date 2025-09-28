@@ -18,7 +18,7 @@ const Footer = () => (
       {/* Brand */}
       <div className="flex-1 min-w-[220px]">
         <h2 className="text-3xl font-bold text-[#ffd200] mb-4 drop-shadow-[2px_2px_8px_rgba(0,0,0,0.4)]">
-          DholeraGujarat.in
+          Dholera Infratech
         </h2>
         <p className="leading-relaxed opacity-90">
           Discover future-ready investment opportunities in{" "}
@@ -27,7 +27,7 @@ const Footer = () => (
           </span>
           . At{" "}
           <span className="text-[#ffd200] font-semibold">
-            DholeraGujarat.in
+            Dholera Infratech
           </span>
           , we bring verified projects, expert guidance, and smart real estate
           solutions for tomorrow’s growth hub. <br />
@@ -96,7 +96,7 @@ const Footer = () => (
             {
               icon: "fa-instagram",
               label: "Instagram",
-              link: "https://www.instagram.com/dholerainfratech/",
+              link: "https://www.instagram.com/dholerainfratechofficial/",
             },
             {
               icon: "fa-linkedin",
