@@ -10,7 +10,7 @@ export default function NextgenSemiconductorCity() {
       date="September 17, 2025"
       description="Nextgen Semiconductors is set to develop India’s first dedicated Silicon Semiconductor City in Dholera, Gujarat, transforming the city into a global hub for semiconductor manufacturing and tech innovation."
       image="/images/blog/nextgen-semicon.jpg"
-      tags={["DholeraSmartCity", "DholeraInfratech", "Semiconductors", "InvestmentInGujarat", "IndiaTechHub"]}
+      tags={["DholeraSmartCity", "DholeraGujarat", "Semiconductors", "InvestmentInGujarat", "IndiaTechHub"]}
     >     
 
       {/* Introduction Card */}

@@ -137,7 +137,7 @@ export default function ProjectDetail({ project }) {
           />
           <link
             rel="canonical"
-            href="https://dholerainfratech.com/projects/westwyn-estate"
+            href="https://dholeragujarat.in/projects/westwyn-estate"
           />
         </Head>
         <WestWynEstate />
